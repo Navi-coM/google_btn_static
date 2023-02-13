@@ -29,13 +29,13 @@ body {
   align-items: center;
   justify-content: center;
   gap: 15px;
-  background-color: #846f6b;
+  background-color: #355967;
   font-size: 17px;
   color: #fff;
   padding: 10px 15px;
   border-radius: 18px;
   text-transform: uppercase;
-  box-shadow: 0 0 12px 4px #277465;
+  box-shadow: 0 0 12px 4px #81a29c;
   border: none;
   cursor: pointer;
 }
